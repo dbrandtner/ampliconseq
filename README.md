@@ -1,3 +1,5 @@
 # ampliconseq
 scripts to perform amplicon sequencing analysis for Norovirus genotypes
-https://zenodo.org/badge/doi/10.5281/zenodo.4415838.svg
+
+
+<a href="https://zenodo.org/badge/latestdoi/326530940"><img src="https://zenodo.org/badge/326530940.svg" alt="DOI"></a>
